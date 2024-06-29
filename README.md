@@ -11,5 +11,6 @@
   <ul>
     <li>MyBox (<b>Author: </b> Andrew Rumak<a href="https://github.com/Deadcows/MyBox"><i> details</i></a>)</li>
     <li>Some personal window editor scripts</li>
-  </ul>
+  </ul> </br>
+  <i>*** Remember to rename the project ***</i>
 </p>
